@@ -1,0 +1,76 @@
+/* Estilo do corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo do formulário */
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo dos rótulos */
+label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* Estilo dos campos de seleção e entrada de texto */
+select,
+input[type="radio"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilo dos botões */
+input[type="submit"],
+input[type="reset"] {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+input[type="reset"] {
+    background-color: #e74c3c;
+}
+
+/* Estilo do cabeçalho */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Estilo do resumo do pedido */
+#pedido-resumo {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+/* Estilo da imagem centralizada */
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+#tamanho_pizza {
+    
+}
